@@ -1,0 +1,1 @@
+# deadfish-in-BI2D was made with the packageing of a batch file to make the colors come up. it is NOT AND I REPEAT NOT a batchfile. also there is no entepreter so if you wanna use it then make your own. im to tired to do that. also heres the wikipage for the esolang this was made in: https://esolangs.org/wiki/(...)_IS_2D!!
